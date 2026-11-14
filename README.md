@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Amine 👋
 
-<!--
-**Amine0796/Amine0796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity engineer from Algiers, Algeria — Master's in Information Systems Security (USTHB).
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Master's in Information Systems Security (SSI) — USTHB, Algiers
+- 🔐 Working in cybersecurity
+- 🔧 Building web apps with PHP / Laravel
+- 🛒 Running e-commerce projects (Shopify, Lightfunnels, COD)
+- 🐧 Comfortable with Linux, Bash, Git and Docker
+- 🌍 Open to remote collaboration and international opportunities
+
+## 🧰 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,c,py,mysql,linux,kali,bash,docker,git,github,vscode&perline=9" />
+</p>
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="./profile-summary-card-output/radical/3-stats.svg" />
+  <img src="https://streak-stats.demolab.com/?user=Amine0796&theme=radical&hide_border=true" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" />
+</p>
